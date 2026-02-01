@@ -21,7 +21,7 @@ This project implements an end-to-end analytics pipeline for Airbnb-style data u
 
 4. Gold Layer
 - Implemented STAR schema fact + dim tables
-- Also built OBT for analysis purpose
+- Also built OBT for analysis purpose, using metadata-driven pipeline
 
 ## Project Structure
 ```text
@@ -40,4 +40,5 @@ This project implements an end-to-end analytics pipeline for Airbnb-style data u
 ├── uv.lock
 ├── .gitignore
 └── README.md
+
 
